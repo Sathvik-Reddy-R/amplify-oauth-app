@@ -2,7 +2,7 @@ import { GoogleOAuthProvider, GoogleLogin } from '@react-oauth/google';
 
 function App() {
   return (
-    <GoogleOAuthProvider clientId="YOUR_CLIENT_ID">
+    <GoogleOAuthProvider clientId="136776099360-57bc3hrc2lp3tjc3ao3d6hn3ea2n7qj3.apps.googleusercontent.com">
       <div style={styles.container}>
         <h1 style={styles.title}>Login</h1>
         <p style={styles.subtitle}>Sign in with your Google account</p>
